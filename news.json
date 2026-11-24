@@ -5,7 +5,12 @@
       "title": "Welcome to POLY BATTLE!",
       "body": "Thanks for playing. Report cheaters with the Report button.",
       "date": "2026-11-23"
+    },
+    {
+      "id": "update-2",
+      "title": "New map!",
+      "body": "Desert Domination is here.",
+      "date": "2026-12-01"
     }
   ]
 }
-{ "id": "update-2", "title": "New map!", "body": "Desert Domination is here.", "date": "2026-12-01" }
